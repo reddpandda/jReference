@@ -1,18 +1,18 @@
-# The No-Paperweight Buying Guide
+# The No-Paperweight Doctrine
 
 *Portable rules for evaluating tools, parts, services, and designs. Not tied to any single project.*
 
 ---
 
-## 1. No third-party consumables, ever
-- No proprietary cartridges, pods, or locked-in refill systems
-- Examples: printer ink cartridges, single-brand filter cartridges, anything designed to only accept the maker's own refill
-- If a design *requires* an ongoing proprietary consumable to function, it's disqualified outright — no exceptions
+## 1. No first-party-only consumables
+- Proprietary cartridges, pods, or consumables locked to a single manufacturer, with no third-party alternative, are disqualified outright
+- Third-party consumables are fine, **provided they're likely to stay available long-term** (see Rule 4 — avoid obscurity in sourcing)
+- Third-party "renewal" services (send in a used cartridge/component, get it refurbished and sent back) are fine — same reasoning, not a single-source dependency
+- Examples of what's disqualified: single-brand printer ink cartridges, filter cartridges with no compatible third-party equivalent, anything designed to only accept the maker's own refill
 
 ## 2. No ongoing subscriptions
-- Exception: swappable services only
-- A free tier is fine **if** it could be replaced by a different provider without a full redesign
-- Never truly locked to one vendor, even on a free tier
+- A free tier is fine **if** it could be replaced by a different provider without a full redesign — genuinely swappable, not truly locked to one vendor
+- Paid recurring subscriptions are out, full stop
 
 ## 3. Evidence of need before cost
 - Don't buy for a hypothetical future
